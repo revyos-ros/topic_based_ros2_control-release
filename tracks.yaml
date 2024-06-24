@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/topic_based_ros2_control-release
 tracks:
   humble:
     actions:

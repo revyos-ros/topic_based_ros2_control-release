@@ -1,3 +1,26 @@
+## topic_based_ros2_control (jazzy) - 0.2.0-4
+
+The packages in the `topic_based_ros2_control` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy topic_based_ros2_control --override-release-repository-push-url git@github.com:revyos-ros/topic_based_ros2_control-release` on `Mon, 24 Jun 2024 09:46:08 -0000`
+
+The `topic_based_ros2_control` package was released.
+
+Version of package(s) in repository `topic_based_ros2_control`:
+
+- upstream repository: https://github.com/PickNikRobotics/topic_based_ros2_control.git
+- release repository: https://github.com/revyos-ros/topic_based_ros2_control-release.git
+- rosdistro version: `0.2.0-3`
+- old version: `0.2.0-3`
+- new version: `0.2.0-4`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## topic_based_ros2_control (iron) - 0.2.0-1
 
 The packages in the `topic_based_ros2_control` repository were released into the `iron` distro by running `/usr/bin/bloom-release topic_based_ros2_control -t iron -r iron` on `Wed, 06 Sep 2023 09:14:43 -0000`
